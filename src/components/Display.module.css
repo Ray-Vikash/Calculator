@@ -1,0 +1,13 @@
+.display {
+display: flex;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 90%;
+  border: 3px solid burlywood;
+  border-radius: 5px;
+  font-size: 35px;
+}
